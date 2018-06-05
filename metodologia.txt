@@ -1,0 +1,31 @@
+												  O USO DE GAMIFICAÇÃO NO CURSO DE CIÊNCIA DA COMPUTAÇÃO
+
+
+		INTRODUÇÃO:
+		
+		-Desrição do problema de pesquisa:
+			Computador e videogames são potencialmente o passa-tempo mais cativante da historia da humanidade(Prensky[1]). Atrevés de experiências pessoais podemos notar que os jogos são mais cativatantes e envolventes pois dispoêm de mecânismos que fazem o jogador interagir com o computador como se fosse outra pesoa, dispertando sentimentos como alegria e raiva. Gamificação é o uso de elementos de jogos em contextos não relacionados a jogos(Deterding[2]), como a educação, por exemplo. Se jogos de computadores possuem esse nível de engajamento nos jogadores por que não usar os mesmos conceitos no aprendizado de programação e outras disciplinas referentes a programação?
+		
+		-Jutificativa da pesquisa:
+			Uma reclamação frequente da coordenação do Instituto de Computação da UFAL é a desistência e desmotivação dos alunos do curso de Ciência da Computação. Fato esse que repercurte na formação de alunos do curso que é bastante baixa. Tentaremos analisar o uso da gamificação e observar seu impacto no desempenho dos alunos.
+
+		-HIPOTESES:
+			...
+
+		OBJETIVOS DA PESQUISA:
+			Objetivo geral:
+				-Avaliar o desempenho dos alunos do curso de ciência da computação com o uso de gamificação e sem o uso de gamificação.
+			Objetivos especificos:
+				- Utilizar gamificação em disciplinas consideradas 'gargalos do curso' tais como Programação 1, Estruturas de Dados, Cálculo 1 entre outras e observar o desempenho dos alunos conforme o passar do tempo.
+				- Gerar um relatório geral de taxa de aproveitamento do aprendizado das disciplinas nas turmas com uso da gamificação e comparar com turmas que não fizeram uso da gamificação.
+				- Estimular a não desistência dos alunos na disciplina durante o decorrer do semtre letivo.
+
+		METODOLOGIA DE PESQUISA
+			Analisaremos 4 turmas de duas disciplinas: Programação 1 e Estruturas de Dados, durante um período de 1 ano(2 semestres letivos), duas turmas com tecnicas de gamificação e duas sem. Desenvolveremos e utilizaremos um software para intereção do aluno fora da sala de aula. Geraremos relatorios mensais para comparação do desempenho dos alunos das turmas durante principalmente o periodo de provas. ...
+			
+
+
+		REFERÊNCIAS
+		[1]Prensky, M. (2001). Fun, Play and Games: What Makes Games Engaging. Digital Game-Based Learning, McGraw-Hill.  
+
+		[2]Deterding,  S.,  Khaled,  R.,  Nacke,  L.,  Dixon,  D.  (2011)  Gamification:  Toward  a  Definition, CHI  2011  Gamification Workshop Proceedings, Vancouver, BC, Canada
